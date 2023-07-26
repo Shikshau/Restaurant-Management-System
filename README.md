@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the repository of *Shiksha's Cuisine Restaurant Management System Website*. This project aims to develop a web-based system for managing various aspects of a restaurant's operations. From handling customer orders and reservations to managing inventory and staff, Shiksha's Cuisine Restaurant Management System provides an all-in-one solution to streamline restaurant operations and enhance customer experience.
+Welcome to the repository of *Shiksha's Cuisine*. This project aims to develop a web-based system for managing various aspects of a restaurant's operations. From handling customer orders and reservations to managing inventory and staff, Shiksha's Cuisine Restaurant Management System provides an all-in-one solution to streamline restaurant operations and enhance customer experience.
 
 ## Features
 
